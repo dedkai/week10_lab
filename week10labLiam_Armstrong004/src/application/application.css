@@ -1,0 +1,22 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: #222222;
+}
+
+.text-field,
+.date-picker {
+    -fx-pref-height: 32px;
+}
+
+.button {
+    -fx-padding: 8px 18px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #cccccc;
+}
